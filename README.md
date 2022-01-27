@@ -3,7 +3,7 @@ with training in areas such as Data Analytics, Machine Learning, Data Engineerin
 I have been part of projects in different areas and sizes such as retail, banking, oil, tourism; playing different roles as senior developer and architect.
 
 
-🌱 I’m currently learning about Machine and Deep LEarning
+🌱 I’m currently learning about Machine and Deep Learning
 
 📫 How to reach me: LuisAnibalVasquez@gmail.com
 
